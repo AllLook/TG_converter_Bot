@@ -1,0 +1,16 @@
+2024-02-16 04:01:27,420 - INFO - 2024-02-16 04:01:27 - Priority INFO: User executed command: /start
+2024-02-16 04:01:42,294 - INFO - 2024-02-16 04:01:42 - Priority INFO: User executed command: /help
+2024-02-16 04:02:04,705 - INFO - 2024-02-16 04:02:04 - Priority INFO: User executed command: /convert 100.0 USD to EUR
+2024-02-16 04:02:14,598 - INFO - 2024-02-16 04:02:14 - Priority INFO: User executed command: /currencies
+2024-02-16 04:04:40,282 - INFO - 2024-02-16 04:04:40 - Priority INFO: User executed command: /convert 100.0 USD to EUR
+2024-02-16 04:08:05,410 - INFO - 2024-02-16 04:08:05 - Priority INFO: User executed command: /convert 100.0 USD to EUR
+2024-02-16 04:36:27,240 - INFO - 2024-02-16 04:36:27 - Priority INFO: User executed command: /convert 100.0 USD to EUR
+2024-02-16 04:37:04,810 - INFO - 2024-02-16 04:37:04 - Priority INFO: User executed command: Goodbye
+2024-02-16 04:37:08,909 - INFO - 2024-02-16 04:37:08 - Priority INFO: User executed command: /help
+2024-02-16 04:44:15,929 - INFO - 2024-02-16 04:44:15 - Priority INFO: User executed command: /help
+2024-02-16 04:44:34,542 - INFO - 2024-02-16 04:44:34 - Priority INFO: User executed command: /convert 100.0 USD to EUR
+2024-02-16 04:45:05,558 - INFO - 2024-02-16 04:45:05 - Priority INFO: User executed command: /currencies
+2024-02-16 04:46:13,744 - INFO - 2024-02-16 04:46:13 - Priority INFO: User executed command: /start
+2024-02-16 04:46:16,119 - INFO - 2024-02-16 04:46:16 - Priority INFO: User executed command: /help
+2024-02-16 04:46:23,265 - INFO - 2024-02-16 04:46:23 - Priority INFO: User executed command: /currencies
+
